@@ -1,0 +1,15 @@
+# Ignore compiled object files
+*.o
+
+# Ignore executables
+*.exe
+*.out
+*.app
+
+# Ignore Code::Blocks specific files
+*.depend
+*.layout
+
+# Ignore build folders
+bin/
+obj/
